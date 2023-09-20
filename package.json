@@ -1,0 +1,21 @@
+{
+  "name": "anushka-bds-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anushka tyagi",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "google-auth-library": "^8.9.0",
+    "google-spreadsheet": "^4.1.0",
+    "googleapis": "^105.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.1"
+  }
+}
